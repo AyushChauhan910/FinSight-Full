@@ -1,0 +1,51 @@
+﻿
+> frontend@0.1.0 build
+> react-scripts build
+
+node.exe : (node:15268) 
+[DEP0176] 
+DeprecationWarning: 
+fs.F_OK is deprecated, use 
+fs.constants.F_OK instead
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Users\Ayush 
+Chauhan\AppData\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: ((no  
+  de:15268) [D...ts.F_OK   
+  instead:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+(Use `node 
+--trace-deprecation ...` 
+to show where the warning 
+was created)
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  170.6 kB  build\static\js\main.2e9df6cf.js
+  2.31 kB   build\static\css\main.73944e2a.css
+  1.76 kB   build\static\js\453.64aababc.chunk.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+

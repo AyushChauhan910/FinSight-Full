@@ -1,0 +1,63 @@
+﻿
+> frontend@0.1.0 build
+> react-scripts build
+
+node.exe : (node:33640) 
+[DEP0176] 
+DeprecationWarning: 
+fs.F_OK is deprecated, use 
+fs.constants.F_OK instead
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Users\Ayush 
+Chauhan\AppData\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: ((no  
+  de:33640) [D...ts.F_OK   
+  instead:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+(Use `node 
+--trace-deprecation ...` 
+to show where the warning 
+was created)
+Creating an optimized production build...
+Compiled with warnings.
+
+[eslint] 
+src\components\QueryPanel.tsx
+  Line 1:35:  'useEffect' is defined but never used  @typescript-eslint/no-unused-vars
+
+src\components\ReportViewer.tsx
+  Line 3:3:   'LineChart' is defined but never used  @typescript-eslint/no-unused-vars
+  Line 3:14:  'Line' is defined but never used       @typescript-eslint/no-unused-vars
+  Line 3:79:  'Legend' is defined but never used     @typescript-eslint/no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  170.6 kB  build\static\js\main.2e9df6cf.js
+  2.31 kB   build\static\css\main.73944e2a.css
+  1.76 kB   build\static\js\453.64aababc.chunk.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
