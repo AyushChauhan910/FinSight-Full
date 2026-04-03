@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What was Apple's total net sales in fiscal year 2023?",
+    "answer": "$383.3 billion",
+    "answer_aliases": ["383.3 billion", "$383,285 million", "383,285 million", "383 billion"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's net income in fiscal 2023?",
+    "answer": "$97.0 billion",
+    "answer_aliases": ["97.0 billion", "$96,995 million", "96,995 million", "97 billion"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's gross margin percentage in 2023?",
+    "answer": "44.1%",
+    "answer_aliases": ["44.1 percent", "44 percent"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's diluted earnings per share in fiscal 2023?",
+    "answer": "$6.13",
+    "answer_aliases": ["6.13", "$6.13 per share"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much revenue did iPhone generate in fiscal 2023?",
+    "answer": "$200.6 billion",
+    "answer_aliases": ["200.6 billion", "$200,583 million", "200,583 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What percentage of Apple's total revenue came from iPhone sales in 2023?",
+    "answer": "52.3%",
+    "answer_aliases": ["52.3 percent", "approximately 52 percent", "52 percent"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What were Apple's Services net sales in fiscal 2023?",
+    "answer": "$85.2 billion",
+    "answer_aliases": ["85.2 billion", "$85,200 million", "85,200 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How did Apple's total net sales change from fiscal 2022 to 2023?",
+    "answer": "Decreased by approximately $11 billion or 2.8%",
+    "answer_aliases": ["decreased 2.8%", "declined about 3%", "decreased by $11 billion", "down 2.8%"],
+    "section": "MD&A",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "What was Apple's operating income in fiscal 2023?",
+    "answer": "$114.3 billion",
+    "answer_aliases": ["114.3 billion", "$114,301 million", "114,301 million"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's research and development expense in 2023?",
+    "answer": "$29.9 billion",
+    "answer_aliases": ["29.9 billion", "$29,915 million", "29,915 million"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much revenue did Mac generate in fiscal 2023?",
+    "answer": "$29.4 billion",
+    "answer_aliases": ["29.4 billion", "$29,357 million", "29,357 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much revenue did iPad generate in fiscal 2023?",
+    "answer": "$28.3 billion",
+    "answer_aliases": ["28.3 billion", "$28,300 million", "28,300 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What were Wearables, Home and Accessories sales in 2023?",
+    "answer": "$39.8 billion",
+    "answer_aliases": ["39.8 billion", "$39,845 million", "39,845 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's total Products net sales in 2023?",
+    "answer": "$298.1 billion",
+    "answer_aliases": ["298.1 billion", "$298,085 million", "298,085 million"],
+    "section": "Revenue",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much revenue came from the Americas in fiscal 2023?",
+    "answer": "$162.6 billion",
+    "answer_aliases": ["162.6 billion", "$162,560 million", "162,560 million"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much revenue came from Europe in fiscal 2023?",
+    "answer": "$94.3 billion",
+    "answer_aliases": ["94.3 billion", "$94,294 million", "94,294 million"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's revenue from Greater China in 2023?",
+    "answer": "$72.6 billion",
+    "answer_aliases": ["72.6 billion", "$72,559 million", "72,559 million"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What percentage of revenue came from the Americas?",
+    "answer": "Approximately 42%",
+    "answer_aliases": ["42%", "about 42 percent", "42 percent"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's revenue from Japan in 2023?",
+    "answer": "$24.3 billion",
+    "answer_aliases": ["24.3 billion", "$24,257 million", "24,257 million"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's revenue from Rest of Asia Pacific in 2023?",
+    "answer": "$29.6 billion",
+    "answer_aliases": ["29.6 billion", "$29,615 million", "29,615 million"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What were Apple's total assets as of September 30, 2023?",
+    "answer": "$352.6 billion",
+    "answer_aliases": ["352.6 billion", "$352,583 million", "352,583 million"],
+    "section": "Balance Sheet",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much cash and cash equivalents did Apple have at the end of 2023?",
+    "answer": "$29.9 billion",
+    "answer_aliases": ["29.9 billion", "$29,965 million", "29,965 million"],
+    "section": "Balance Sheet",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's total term debt in 2023?",
+    "answer": "$110.0 billion",
+    "answer_aliases": ["110.0 billion", "$110,000 million", "110 billion"],
+    "section": "Balance Sheet",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's shareholders' equity in 2023?",
+    "answer": "$62.1 billion",
+    "answer_aliases": ["62.1 billion", "$62,146 million", "62,146 million"],
+    "section": "Balance Sheet",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How many shares of common stock were outstanding at the end of 2023?",
+    "answer": "Approximately 15.56 billion shares",
+    "answer_aliases": ["15.56 billion", "15,550,061 shares", "about 15.6 billion shares"],
+    "section": "Shareholders Equity",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's operating cash flow from operations in 2023?",
+    "answer": "$110.5 billion",
+    "answer_aliases": ["110.5 billion", "$110,543 million", "110,543 million"],
+    "section": "Cash Flow",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much did Apple spend on share repurchases in 2023?",
+    "answer": "$77.6 billion",
+    "answer_aliases": ["77.6 billion", "$77,550 million", "77,550 million"],
+    "section": "Shareholders Equity",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How much did Apple pay in dividends in 2023?",
+    "answer": "$15.0 billion",
+    "answer_aliases": ["15.0 billion", "$15,025 million", "15 billion"],
+    "section": "Shareholders Equity",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's capital expenditures in 2023?",
+    "answer": "$11.0 billion",
+    "answer_aliases": ["11.0 billion", "$10,959 million", "11 billion"],
+    "section": "Cash Flow",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What is Apple's fiscal year end date?",
+    "answer": "The last Saturday of September, which was September 30, 2023",
+    "answer_aliases": ["September 30, 2023", "last Saturday of September"],
+    "section": "Business",
+    "answer_type": "factual"
+  },
+  {
+    "question": "Where is Apple's corporate headquarters located?",
+    "answer": "Cupertino, California",
+    "answer_aliases": ["Cupertino, CA", "Cupertino California"],
+    "section": "Business",
+    "answer_type": "factual"
+  },
+  {
+    "question": "How many full-time equivalent employees did Apple have in 2023?",
+    "answer": "Approximately 161,000",
+    "answer_aliases": ["161,000", "161000", "about 161,000 employees"],
+    "section": "Business",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "How did Services gross margin change compared to the prior year?",
+    "answer": "Services gross margin increased due to higher Services net sales",
+    "answer_aliases": ["increased", "went up", "improved"],
+    "section": "MD&A",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "How did Products gross margin change from 2022 to 2023?",
+    "answer": "Decreased due to weakness in foreign currencies relative to the U.S. dollar and lower Products volume",
+    "answer_aliases": ["decreased", "declined", "went down"],
+    "section": "MD&A",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "What was the primary reason for the decline in Greater China net sales?",
+    "answer": "Weakness in the renminbi relative to the U.S. dollar, with lower net sales of Mac and iPhone",
+    "answer_aliases": ["currency weakness", "renminbi weakness", "foreign exchange"],
+    "section": "Geographic",
+    "answer_type": "factual"
+  },
+  {
+    "question": "What caused the decrease in Japan net sales?",
+    "answer": "Weakness in the yen relative to the U.S. dollar, with lower iPhone, Wearables, Home and Accessories, and Mac sales",
+    "answer_aliases": ["yen weakness", "currency impact", "foreign exchange"],
+    "section": "Geographic",
+    "answer_type": "factual"
+  },
+  {
+    "question": "How did iPhone net sales change from 2022 to 2023?",
+    "answer": "Decreased from $205.5 billion to $200.6 billion, a decline of approximately $4.9 billion",
+    "answer_aliases": ["decreased", "declined", "down about $5 billion"],
+    "section": "Revenue",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "How did Services net sales change year over year?",
+    "answer": "Increased from $78.1 billion to $85.2 billion, growth of approximately 9.1%",
+    "answer_aliases": ["increased 9.1%", "grew to $85.2 billion", "up 9 percent"],
+    "section": "Revenue",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "How did Mac net sales perform in 2023 compared to 2022?",
+    "answer": "Decreased significantly from $40.2 billion to $29.4 billion",
+    "answer_aliases": ["decreased", "declined significantly", "down about 27%"],
+    "section": "Revenue",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "What were the three largest product categories by revenue in 2023?",
+    "answer": "iPhone ($200.6B), Services ($85.2B), and Wearables, Home and Accessories ($39.8B)",
+    "answer_aliases": ["iPhone, Services, Wearables", "iPhone, Services, and Wearables"],
+    "section": "Revenue",
+    "answer_type": "factual"
+  },
+  {
+    "question": "What was Apple's return on equity (ROE) approximately?",
+    "answer": "Approximately 156% (Net income of $97.0 billion divided by average equity)",
+    "answer_aliases": ["156%", "about 156 percent", "156 percent"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What is Apple's stock ticker symbol?",
+    "answer": "AAPL",
+    "answer_aliases": ["AAPL"],
+    "section": "Business",
+    "answer_type": "factual"
+  },
+  {
+    "question": "What is Apple's CIK number for SEC filings?",
+    "answer": "320193",
+    "answer_aliases": ["320193"],
+    "section": "Business",
+    "answer_type": "factual"
+  },
+  {
+    "question": "What was the total operating expenses for 2023?",
+    "answer": "$54.8 billion (R&D of $29.9B plus SG&A of $24.9B)",
+    "answer_aliases": ["54.8 billion", "about $55 billion"],
+    "section": "Financial Statements",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was Apple's effective tax rate in fiscal 2023?",
+    "answer": "14.7%",
+    "answer_aliases": ["14.7 percent", "about 15 percent"],
+    "section": "Income Taxes",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What was the change in Apple's total net sales percentage from 2022 to 2023?",
+    "answer": "Decreased 2.8% from $394.3 billion to $383.3 billion",
+    "answer_aliases": ["decreased 2.8%", "down 2.8 percent", "declined 2.8%"],
+    "section": "MD&A",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "What are Apple's primary business segments?",
+    "answer": "Apple operates as a single reportable segment, but reports product categories: iPhone, Mac, iPad, Wearables/Home/Accessories, and Services",
+    "answer_aliases": ["single segment", "one segment", "operates as a single segment"],
+    "section": "Business",
+    "answer_type": "factual"
+  },
+  {
+    "question": "How did iPad net sales change from 2022 to 2023?",
+    "answer": "Increased from $29.3 billion to $28.3 billion, essentially flat with slight decrease",
+    "answer_aliases": ["slightly decreased", "essentially flat", "minimal change"],
+    "section": "Revenue",
+    "answer_type": "comparative"
+  },
+  {
+    "question": "What was the approximate dividend per share in 2023?",
+    "answer": "$0.96 per share annually ($0.24 quarterly)",
+    "answer_aliases": ["$0.24 quarterly", "96 cents per share", "$0.96"],
+    "section": "Shareholders Equity",
+    "answer_type": "numerical"
+  },
+  {
+    "question": "What percentage of revenue came from international sales?",
+    "answer": "Approximately 58% (international revenue of $220.7 billion out of $383.3 billion total)",
+    "answer_aliases": ["58%", "about 58 percent", "58 percent international"],
+    "section": "Geographic",
+    "answer_type": "numerical"
+  }
+]

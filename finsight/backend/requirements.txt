@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain-groq
+langchain-chroma
+langchain-community
+sentence-transformers
+chromadb
+mlflow
+yfinance
+beautifulsoup4
+lxml
+httpx
+python-dotenv
+pydantic
+sse-starlette
+langgraph
